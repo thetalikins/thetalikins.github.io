@@ -1,3 +1,15 @@
 body {
-    background: green
-}
+    background-color: #5f1469;
+    color: #FFFFFF;
+   }
+   h1 {
+    color: rgb(51, 255, 136);
+    text-align: center;
+    font: italic 200% fantasy;
+   }
+   p {
+    background-color: rgb(61, 19, 85);
+    color: #010033;
+    text-align: right;
+    border: 3px groove rgb(51, 255, 194);
+   }
