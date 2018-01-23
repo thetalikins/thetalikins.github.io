@@ -5,7 +5,7 @@ head {
         margin-right: auto }
 }
 body {
-    background-color: #5f1469;
+    background-color:rgb(140, 89, 170);
     color: #FFFFFF;
    }
    h1 {
@@ -14,7 +14,6 @@ body {
     font: italic 200% fantasy;
    }
    p {
-    background-color: rgb(140, 89, 170);
-    color: #6765bee8;
+    color: #FFFFFF
     text-align: left;
    }
