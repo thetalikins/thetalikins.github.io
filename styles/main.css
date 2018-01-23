@@ -3,6 +3,13 @@ head {
         display: block;
         margin-left: auto;
         margin-right: auto }
+
+        }
+        img {
+            width: 300px;
+            margin: 0 auto;
+            text-align: center;
+        }
 }
 body {
     background-color:rgb(140, 89, 170);
