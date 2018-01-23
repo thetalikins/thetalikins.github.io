@@ -10,6 +10,5 @@ body {
    p {
     background-color: rgb(140, 89, 170);
     color: #6765bee8;
-    text-align: right;
-    border: 3px groove rgb(95, 223, 184);
+    text-align: left;
    }
