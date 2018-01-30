@@ -1,3 +1,21 @@
+/*Header */
+.header {
+  background-color: #aaa
+  max-width: 100%;
+  header: 120px;
+  border-bottom: 20px;
+  float: center;
+}
+
+h1 {
+  color: purple
+  padding-top: 40px
+  padding-left: 20px
+  font-size: auto;
+  text-transform: uppercase;
+}
+
+/*Content*/
 body {
   padding-top: 2rem;
 }
