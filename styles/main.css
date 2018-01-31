@@ -15,15 +15,24 @@ h1 {
   text-transform: uppercase;
 }
 
+h2 {
+  color: rgb(10, 115, 119)
+  padding-top: 40px
+  padding-left: 20px
+  font-size: auto;
+  text-transform: uppercase;
+}
+
+h4 {
+  color: black
+  padding-top: 40px
+  padding-left: 20px
+  font-size: auto;
+}
+
 /*Content*/
 body {
   padding-top: 2rem;
+  background-color: #aaa
 }
 
-.highlight {
-  font-style: italic;
-  padding: 2rem;
-  background-color: #ccc;
-  border-radius: 0.5rem;
-  box-shadow: 0.5rem 0.5rem 0 0 #aaa;
-}
