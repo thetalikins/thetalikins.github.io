@@ -25,6 +25,13 @@ h2 {
 
 }
 
+/*Content*/
+.container-main {
+  padding-top: 2rem;
+  background-color: #aaa;
+  text-decoration-color: black;
+}
+
 h4.post-title {
   color:purple;
   padding-top: 40px;
@@ -32,10 +39,12 @@ h4.post-title {
   font-size: auto;
 }
 
-/*Content*/
-container-main {
-  padding-top: 2rem;
-  background-color: #aaa;
-  text-decoration-color: black;
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  width: 100%;
+  
 }
 
