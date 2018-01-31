@@ -1,6 +1,6 @@
 /*Header */
 .header {
-  background-color: #aaa
+  background-color: rgba(170, 170, 170, 0.568);
   max-width: 100%;
   header: 120px;
   border-bottom: 20px;
@@ -8,19 +8,21 @@
 }
 
 h1 {
-  color: purple
-  padding-top: 40px
-  padding-left: 20px
+  color: purple;
+  text-align: center;
+  padding-top: 40px;
+  padding-left: 20px;
   font-size: auto;
   text-transform: uppercase;
 }
 
-h2 {
-  color: rgb(10, 115, 119)
-  padding-top: 40px
-  padding-left: 20px
-  font-size: auto;
-  text-transform: uppercase;
+h2.post-title {
+  color: rgb(10, 115, 119);
+  text-align: center;
+  padding-top: 20px;
+  padding-left: 20px;
+  font-size: 2.5rem;
+
 }
 
 h4 {
