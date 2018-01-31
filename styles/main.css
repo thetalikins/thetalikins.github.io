@@ -33,7 +33,7 @@ h4.post-title {
 }
 
 /*Content*/
-body {
+container-main {
   padding-top: 2rem;
   background-color: #aaa;
   text-decoration-color: black;
