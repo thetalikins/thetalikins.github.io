@@ -24,6 +24,17 @@ h2 {
   font-size: 2.5rem;
 }
 
+#wrapperHeader{
+  position: stretch;
+  background-image:url(images/header.png);
+}
+
+#headImg{
+  align-content: center;
+  width:1000px;
+  height:200px;
+}
+
 /*Content*/
 
 body {
